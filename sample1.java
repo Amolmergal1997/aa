@@ -1,2 +1,7 @@
 hii all of you 
-welcome to devops
+welcome to devop
+hi
+ita 
+al of you
+welcome to new
+devopss
